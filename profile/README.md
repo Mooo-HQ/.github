@@ -2,7 +2,7 @@
 
 **Vous ne cherchez plus, vous n'oubliez plus. Vous pilotez.**
 
-MOOO est un cockpit IA de l'activité professionnelle. Il se branche sur vos mails, votre messagerie d'équipe et vos outils de projet, garde le fil de vos engagements et vous signale ce qui attend une décision : ce que vous faites, ce que vous avez délégué, et ce que vos agents IA ont produit.
+MOOO est un tableau de bord IA de l'activité professionnelle. Il se branche sur vos mails, votre messagerie d'équipe et vos outils de projet, garde le fil de vos engagements et vous signale ce qui attend une décision : ce que vous faites, ce que vous avez délégué, et ce que vos agents IA ont produit.
 
 > Le projet est en phase de conception. Le code n'est pas encore publié.
 
